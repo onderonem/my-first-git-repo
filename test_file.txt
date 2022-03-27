@@ -1,1 +1,2 @@
-Do not delate this file, please.
+Do not delete this file, please.
+This is my local PC. I will push this code to GitHub.

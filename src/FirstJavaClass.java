@@ -1,4 +1,4 @@
-public class firstJavaClass {
+public class FirstJavaClass {
     public static void main(String[] args) {
         System.out.println("Leaning github");
         System.out.println("yes");

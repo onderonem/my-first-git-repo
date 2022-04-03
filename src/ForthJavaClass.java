@@ -1,5 +1,2 @@
-public class ForthJavaClass {
-
-
-
+package PACKAGE_NAME;public class ForthJavaClass {
 }

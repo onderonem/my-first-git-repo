@@ -1,4 +1,4 @@
 public class ThirdJavaClass {
 
-    // this will also will some code
+    // This will also have some code
 }
